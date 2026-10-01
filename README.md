@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Zevhirus/Zevhirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Aan Setiawan
 
-Here are some ideas to get you started:
+### `Full-Stack Developer` • `Web Developer` • `UI/UX Enthusiast`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;Turning+ideas+into+real+products;Frontend+%2B+Backend+%2B+Database;Always+learning%2C+always+building." />
+
+<br>
+
+<a href="https://github.com/Zevhirus">
+  <img src="https://komarev.com/ghpvc/?username=Zevhirus&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/Zevhirus?tab=followers">
+  <img src="https://img.shields.io/github/followers/Zevhirus?label=Followers&style=flat&color=0e75b6" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const aan = {
+    name: "Aan Setiawan",
+    username: "Zevhirus",
+    role: "Full-Stack Developer",
+    
+    interests: [
+        "Web Development",
+        "UI/UX Design",
+        "Full-Stack Development",
+        "Database Architecture",
+        "Open Source"
+    ],
+
+    currentlyBuilding: [
+        "Web Applications",
+        "Personal Projects",
+        "Creative Digital Solutions"
+    ],
+
+    mindset: "Build. Learn. Improve. Repeat."
+};

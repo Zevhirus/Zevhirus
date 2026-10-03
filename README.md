@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Aan Setiawan
+#  Hey, I'm Aan Setiawan
 
 ### `Full-Stack Developer` • `Web Developer` • `UI/UX Enthusiast`
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```javascript
 const aan = {

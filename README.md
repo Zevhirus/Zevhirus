@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,tailwind,supabase,firebase,gcp,git,linux,fedora" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zevhirus&show_icons=true&theme=tokyonight&hide_border=true" />

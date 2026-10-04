@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%24+whoami;aan_setiawan+%7C+full-stack+developer;Frontend+%2B+Backend+%2B+Cloud;Build.+Learn.+Improve.+Repeat." alt="Typing SVG" />
 </p>
 
-## 🎯 About Me
+##  About Me
 
 <table>
 <tr>
@@ -47,7 +47,7 @@ const aan = {
 
 > 💬 *"Build. Learn. Improve. Repeat."*
 
-## 📡 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://portopolio.up.railway.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -56,7 +56,7 @@ const aan = {
   <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,tailwind,supabase,firebase,gcp,git,github,vscode,linux,fedora,figma&perline=8" />
@@ -69,7 +69,7 @@ const aan = {
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zevhirus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -79,19 +79,5 @@ const aan = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zevhirus&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zevhirus&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</p>
-
-## 📌 Featured Projects
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [Nama Project 1](https://github.com/Zevhirus/REPO1) | Deskripsi singkat | `Node.js` `Supabase` |
-| [Nama Project 2](https://github.com/Zevhirus/REPO2) | Deskripsi singkat | `Tailwind` `Firebase` |
-| [Nama Project 3](https://github.com/Zevhirus/REPO3) | Deskripsi singkat | `JavaScript` `GCP` |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:0d1117&height=100&section=footer" width="100%" />

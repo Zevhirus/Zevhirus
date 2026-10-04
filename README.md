@@ -32,11 +32,5 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zevhirus&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📌 Featured Projects
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [Nama Project 1](link) | Deskripsi singkat | `Node.js` `Supabase` |
-| [Nama Project 2](link) | Deskripsi singkat | `Tailwind` `Firebase` |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%" />

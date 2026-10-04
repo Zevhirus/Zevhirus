@@ -12,31 +12,23 @@
   <img src="https://komarev.com/ghpvc/?username=Zevhirus&style=for-the-badge&color=6366f1" />
 </p>
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🔭 Lagi bangun **web apps** dan **personal projects**
 - 🌱 Lagi eksplor **GCP, Cloud Functions & Serverless**
 - 🎨 Suka bikin UI yang rapi dan enak dipakai
 - 📍 Makassar, Indonesia
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,nodejs,tailwind,supabase,firebase,gcp,git,linux,fedora" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zevhirus&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zevhirus&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-## 📌 Featured Projects
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [Nama Project 1](link) | Deskripsi singkat | `Node.js` `Supabase` |
-| [Nama Project 2](link) | Deskripsi singkat | `Tailwind` `Firebase` |
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%" />

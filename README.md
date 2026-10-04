@@ -1,37 +1,42 @@
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Aan%20Setiawan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=58" width="100%" />
+
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=%24+whoami;aan_setiawan+%7C+full-stack+developer;%24+cat+mindset.txt;Build.+Learn.+Improve.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+web+apps+with+Node.js+%26+Tailwind;Exploring+GCP+%26+Serverless;Build.+Learn.+Improve.+Repeat." alt="Typing SVG" />
 </p>
 
-```bash
-aan@zevhirus:~$ neofetch
+<p align="center">
+  <a href="https://portopolio.up.railway.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0005-0418-3056"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Zevhirus&style=for-the-badge&color=6366f1" />
+</p>
 
-  OS ........... Fedora Linux
-  Role ......... Full-Stack Developer
-  Location ..... Makassar, Indonesia
-  Stack ........ JavaScript, Node.js, Tailwind, Supabase, Firebase
-  Exploring .... GCP, Cloud Functions, Serverless
-  Editor ....... VS Code
-  Status ....... Building cool stuff ⚡
-```
+## 👨‍💻 About Me
 
-## `$ ls ./skills`
+- 🔭 Lagi bangun **web apps** dan **personal projects**
+- 🌱 Lagi eksplor **GCP, Cloud Functions & Serverless**
+- 🎨 Suka bikin UI yang rapi dan enak dipakai
+- 📍 Makassar, Indonesia
+
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Fedora-0d1117?style=flat-square&logo=fedora&logoColor=51A2DA" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,tailwind,supabase,firebase,gcp,git,linux,fedora" />
 </p>
 
-## `$ git log --stats`
+## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zevhirus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Zevhirus&theme=dark&hide_border=true&background=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zevhirus&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zevhirus&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## `$ cat links.txt`
+## 📌 Featured Projects
 
-[🌐 Portfolio](https://portopolio.up.railway.app/) · [🎓 ORCID](https://orcid.org/0009-0005-0418-3056)
+| Project | Deskripsi | Stack |
+|---|---|---|
+| [Nama Project 1](link) | Deskripsi singkat | `Node.js` `Supabase` |
+| [Nama Project 2](link) | Deskripsi singkat | `Tailwind` `Firebase` |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%" />
